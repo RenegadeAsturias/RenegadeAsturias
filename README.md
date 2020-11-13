@@ -1,8 +1,8 @@
 ![ImagenPrincipalCabecera](https://github.com/RenegadeAsturias/RenegadeAsturias/blob/master/PrincipadoDeAsturias.jpg)
 # RenegadeAsturias's repositories
 ## Welcome visitor:
-- 🔭 I’m currently investigate Git+Github
-- 🌱 I’m currently learning Typescript
+- 🔭 Curioseando Git+GitHub
+- 🔭 Curioseando Typescript
 - 🌱 Languages and Tools
 <code><img height="20" title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
