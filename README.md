@@ -23,6 +23,7 @@ Soy analista programador desde hace más de veinte años.
 <img src="https://camo.githubusercontent.com/7858f416aa93ee56048ca2eb473bdde10002398fc4ff05e08faf6cb3cbb5bce1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612532302d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="" style="max-width: 100%;">
 </a>
 </p>
+<p>Y también: SPRING, BOOTSTRAP</p>
 
 ## Curioseando también:
 <p dir="auto">
@@ -33,6 +34,7 @@ Soy analista programador desde hace más de veinte años.
 <img src="https://camo.githubusercontent.com/23eab6524b75cef3734d7c11c53e809d9e2e954e1be7748295db654b3cd0ef8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d54797065536372697074266c6f676f436f6c6f723d666666" alt="" style="max-width: 100%;">
 </a>
 </p>
+<p>Y también: GIT, ANGULAR</p>
 
 <!--
 **RenegadeAsturias/RenegadeAsturias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
