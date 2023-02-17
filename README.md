@@ -2,7 +2,11 @@
 <!-- # Bienvenido -->
 
 ## Hola, mi nombre es René <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>
-Soy analista programador desde hace más de veinte años.
+Analista programador con más de 20 años de experiencia en tecnologías Java EE 
+en diversos sectores como: Banca, Administración Pública, Seguros, ...
+y en clientes como: A&G Banca Privada, Allfunds Bank, Comunidad de Madrid, ICO, etc...
+
+Full Stack en tecnologías: Java 8, Spring, SQL, jQuery, Javascript, HTML5, CSS3, Bootstrap
 
 ## Tecnologías principales:
 <p dir="auto">
