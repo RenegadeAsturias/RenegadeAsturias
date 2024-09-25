@@ -6,10 +6,10 @@ Analista programador con más de 20 años de experiencia en tecnologías Java EE
 en diversos sectores como: Banca, Administración Pública, Seguros, ...
 y en clientes como: A&G Banca Privada, Allfunds Bank, Comunidad de Madrid, ICO, etc...
 
-Full Stack en tecnologías: Java 8, Spring, SQL, jQuery, Javascript, HTML5, CSS3, Bootstrap
+Tecnologías: Java 8, Spring 4.3, Spring Boot, Microservicios, Servicios Web/REST/SOAP, Websockets, JSP, EL, jQuery, Typescript, Javascript, JSP, JSON, HTML5, CSS3, Bootstrap, SVN, Tomcat, Oracle 19, Eclipse, STS, Swagger, Postman
 
 ### Últimos cursos y ejercicios añadidos al repositorio:
--Kotlin, -Angular, Java Avanzado, -Git y Git-Hub -Typescript
+-Javascript Moderno, -Kotlin, -Angular, Java Avanzado, -Git y Git-Hub -Typescript
 
 <!--
 **RenegadeAsturias/RenegadeAsturias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
