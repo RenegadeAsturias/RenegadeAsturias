@@ -10,7 +10,8 @@ Tecnologías: Java 8, Spring 4.3, Spring Boot, Microservicios, Servicios Web/RES
 
 ### Últimos cursos y ejercicios añadidos al repositorio:
 Anguar 19, Node.js, Typescript, Javascript Moderno, Kotlin, Java Avanzado, Git, Git-Hub
-IDEs con VS Code + Cursor | Copilot
+*IDEs con VS Code + Cursor | Copilot
+
 
 <!--
 **RenegadeAsturias/RenegadeAsturias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
